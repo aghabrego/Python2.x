@@ -8,5 +8,5 @@ for i in range(6):
     if i % 2 <> 0:
         pro = pro * vec[i]
 
-print "Productor de posicion impar ",pro
+print "Productor de posición impares ",pro
     
