@@ -6,7 +6,6 @@ mayor = 0
 for i in range(n):
     elemento = input("Indique un numero ")
     vector.append(elemento)
-    i = i + 1
     
 for i in range(n):
     if vector[i] > mayor:
