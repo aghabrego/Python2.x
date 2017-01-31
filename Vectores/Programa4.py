@@ -1,6 +1,5 @@
 # Programa que determina el mayor elemento de un vector.
 n = input("Cantidad de Veces ")
-i = 0
 vector = []
 mayor = 0
 
